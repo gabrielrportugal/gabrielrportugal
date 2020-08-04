@@ -14,3 +14,7 @@ Meu nome é Gabriel Rocha Portugal, sou um desenvolvedor ReactJS, React Native e
 - :books: Estudando <a href="https://nextjs.org/">NextJS<a/>, <a href="https://graphql.org/"> GraphQL<a/> :heart:
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielrportugal&theme=default&show_icons=true&hide=issues&hide_border=true" alt="gabrielrportugal" />
+</p>
