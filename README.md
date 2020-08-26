@@ -15,6 +15,11 @@ Meu nome é Gabriel Rocha Portugal, sou um desenvolvedor ReactJS, React Native e
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielrportugal&theme=default&show_icons=true&hide=issues&hide_border=true" alt="gabrielrportugal" />
-</p>
+<center>
+<table width="100%">
+  <tr>
+      <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrportugal&layout=compact&show_icons=true&theme=default&hide_border=true" alt="gabrielrportugal"/></td>
+      <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielrportugal&theme=default&show_icons=true&hide_border=true" alt="gabrielrportugal"/></td>
+  </tr>  
+</table>
+</center>
