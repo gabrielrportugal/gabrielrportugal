@@ -9,7 +9,7 @@
 
 Meu nome é Gabriel Rocha Portugal, sou um desenvolvedor ReactJS, React Native e NodeJS.
 
-- :office_worker: Realizando estágio como desenvolvedor front end na <a href="https://www.tedsys.com.br/">Tedsys<a/>
+- :office_worker: Software Specialist na <a href="https://beotto.com/">Otto<a/>
 - :blue_heart: Techs: <a href="https://pt-br.reactjs.org//">ReactJS<a/>, <a href="https://reactnative.dev///">React Native<a/>, <a href="https://nodejs.org/en/">Node.js<a/>, <a href="https://www.docker.com/"> Docker<a/>, <a href="https://www.typescriptlang.org/"> TypeScript<a/> e mais!
 - :books: Estudando <a href="https://nextjs.org/">NextJS<a/>, <a href="https://graphql.org/"> GraphQL<a/> :heart:
 
