@@ -1,17 +1,39 @@
-# Gabriel Rocha Portugal :man_technologist:
+# Gabriel Portugal :man_technologist:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielrportugal)](https://github.com/gabrielrportugal)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielrportugal/)](https://www.linkedin.com/in/gabrielrportugal/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522992057430&text=Olá!)](https://api.whatsapp.com/send?phone=5522992057430&text=Olá!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielrportugal@outlook.com)](mailto:gabrielrportugal@outlook.com)
+<p align="left">
+
+  <a href="https://web.whatsapp.com/send?phone=+5522992057430" alt="WhatsApp" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-4c4c4c?style=flat-square&logo=WhatsApp&logoColor=white" />
+  </a>
+
+  <a href="mailto:gabrielrportugal@outlook.com" alt="Email" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-4c4c4c?style=flat-square&logo=microsoft&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/gabrielrportugal/" alt="LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-4c4c4c?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/gabrielrportugal" alt="GitHub" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-4c4c4c?style=flat-square&logo=Github&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/gabrielrportugal" alt="Views" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=ayrtonbsouza&color=gray&style=flat-square" />
+  </a>
+
+</p>
 
 ## Olá, tudo bem? 👋
 
-Meu nome é Gabriel Rocha Portugal, sou um desenvolvedor ReactJS, React Native e NodeJS.
+Meu nome é Gabriel Portugal.
+Possuo conhecimento nas tecnologias JavaScript | TypeScript | Node.js | ReactJS | React Native.
 
 - 👨‍💻Software Specialist na <a href="https://beotto.com/">Otto<a/>
 - :blue_heart: Techs: <a href="https://pt-br.reactjs.org//">ReactJS<a/>, <a href="https://reactnative.dev///">React Native<a/>, <a href="https://nodejs.org/en/">Node.js<a/>, <a href="https://www.docker.com/"> Docker<a/>, <a href="https://www.typescriptlang.org/"> TypeScript<a/> e mais!
+- 👨‍🎓 Graduando em Sistemas de Informação
 - :books: Estudando <a href="https://nextjs.org/">NextJS<a/>, <a href="https://graphql.org/"> GraphQL<a/> :heart:
+- 📌 Rio de Janeiro, Brasil.
 
 ---
 
