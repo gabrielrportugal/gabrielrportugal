@@ -6,7 +6,7 @@ Meu nome é Gabriel Portugal, tenho 21 anos.
 
 - 👨‍💻 Software Specialist na <a href="https://beotto.com/">Otto<a/>
 - :blue_heart: Techs: <a href="https://pt-br.reactjs.org//">ReactJS<a/>, <a href="https://reactnative.dev///">React Native<a/>, <a href="https://nodejs.org/en/">Node.js<a/>, <a href="https://www.docker.com/"> Docker<a/>, <a href="https://www.typescriptlang.org/"> TypeScript<a/> e mais!
-- 👨‍🎓 Graduando em Sistemas de Informação
+- 👨‍🎓 Graduado em Sistemas de Informação
 - :books: Estudando <a href="https://nextjs.org/">NextJS<a/>, <a href="https://graphql.org/"> GraphQL<a/>
 - 📌 Rio de Janeiro, Brasil.
   
