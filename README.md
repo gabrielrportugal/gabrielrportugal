@@ -4,9 +4,9 @@
 
 Meu nome é Gabriel Portugal, tenho 23 anos.
 
-- :blue_heart: Techs: <a href="https://pt-br.reactjs.org//">ReactJS<a/>, <a href="https://reactnative.dev///">React Native<a/>, <a href="https://nodejs.org/en/">Node.js<a/>, <a href="https://nextjs.org/">NextJS<a/>, <a href="https://www.typescriptlang.org/"> TypeScript<a/>,<a href="https://graphql.org/"> GraphQL<a/>  e mais!
+- :blue_heart: Techs: <a href="https://pt-br.reactjs.org//">ReactJS<a/>, <a href="https://nodejs.org/en/">Node.js<a/>, <a href="https://nextjs.org/">NextJS<a/>, <a href="https://www.typescriptlang.org/"> TypeScript<a/>,<a href="https://graphql.org/"> GraphQL<a/>  e mais!
 - 👨‍🎓 Graduado em Sistemas de Informação
-- :books: Estudando <a href="https://www.docker.com/"> Docker<a/>, <a href="https://aws.amazon.com/pt/"> AWS<a/>
+- :books: Estudando <a href="https://www.docker.com/"> Docker<a/>, <a href="https://aws.amazon.com/pt/"> AWS<a/>, <a href="https://reactnative.dev///">React Native<a/> e outras tecnologias que despertam curiosidade.
 - 📌 Rio de Janeiro, Brasil.
   
 ## Como me encontrar
