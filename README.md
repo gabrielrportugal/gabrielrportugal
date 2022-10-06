@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielrportugal&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielrportugal" /> </p>
 
-- :books: I’m currently learning **Docker, AWS, React Native and others.**
+- :books: I’m currently learning **Docker, AWS, Serverless and others.**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/gabrielrportugal?tab=repositories)
 
