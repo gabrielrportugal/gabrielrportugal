@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Gabriel Portugal :man_technologist:</h1>
-<h3 align="center">A fullstack developer from Brazil.🇧🇷</h3>
+<h3 align="center">A fullstack developer from Brazil. 🇧🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielrportugal&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielrportugal" /> </p>
 
-- :books: I’m currently learning **Docker, AWS, Serverless and others.**
+- :books: I’m currently learning about **Docker, Software Architecture, Serverless and others.**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/gabrielrportugal?tab=repositories)
 
-- :blue_heart: Techs: <a href="https://pt-br.reactjs.org//">ReactJS<a/>, <a href="https://nodejs.org/en/">Node.js<a/>, <a href="https://nextjs.org/">NextJS<a/>, <a href="https://www.typescriptlang.org/"> TypeScript<a/> ...
+- :blue_heart: Techs: <a href="https://pt-br.reactjs.org//">ReactJS<a/>, <a href="https://nodejs.org/en/">Node.js<a/>, <a href="https://nestjs.com">NestJS<a/>, <a href="https://nextjs.org/">NextJS<a/>, <a href="https://www.typescriptlang.org/"> TypeScript<a/> ...
 
 - 👨‍🎓 Information Systems Degree [(UNESA)](https://estacio.br/)
 
-- 💬 Ask me about **react, nextjs and node.**
+- 📕 Ongoing MBA Software Architecture [(Full Cycle)](https://fullcycle.com.br/)
 
 - 📫 How to reach me **gabrielrportugal@outlook.com**
+
+- 🇭🇺 Fun Fact: I'm a big Fluminense Football Club supporter
 
 - 📌 Rio de Janeiro, Brasil.
 
