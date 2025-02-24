@@ -1,12 +1,6 @@
 <h2 align="center">Hi 👋, I'm Gabriel Portugal</h2>
 <h3 align="center">Fullstack Developer from Brazil 🇧🇷</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabrielrportugal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
-
 ### 🚀 About Me
 - 🎓 **Information Systems Graduate** [(UNESA)](https://estacio.br/)
 - 📚 **Currently learning:** Docker, Software Architecture, Serverless and more.
@@ -14,6 +8,10 @@
 - ⚽ **Fun fact:** Passionate supporter of Fluminense Football Club!
 - 📍 **Based in:** Rio de Janeiro, Brazil.
 - 💬 **How to reach me:** **gabrielrportugal@outlook.com**
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gabrielrportugal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
