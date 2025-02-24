@@ -3,11 +3,11 @@
 
 ### 🚀 About Me
 - 🎓 **Information Systems Graduate** [(UNESA)](https://estacio.br/)
-- 📚 **Currently learning:** Docker, Software Architecture, Serverless and more.
-- 📕 **Ongoing MBA in Software Architecture** [(Full Cycle)](https://fullcycle.com.br/)
-- ⚽ **Fun fact:** Passionate supporter of Fluminense Football Club!
+- 📚 **Currently learning:** Docker, Software Architecture, Serverless, and more.
+- 📕 **Pursuing an MBA in Software Architecture** [(Full Cycle)](https://fullcycle.com.br/)
+- ⚽ **Fun fact:** A passionate Fluminense Football Club supporter!
 - 📍 **Based in:** Rio de Janeiro, Brazil.
-- 💬 **How to reach me:** **gabrielrportugal@outlook.com**
+- 💬 **Reach me at:** **gabrielrportugal@outlook.com**
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gabrielrportugal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -51,4 +51,3 @@
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" width="40" height="40" />
   </a>
 </p>
-
