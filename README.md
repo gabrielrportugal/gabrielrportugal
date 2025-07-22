@@ -2,9 +2,9 @@
 <h3 align="center">Fullstack Developer from Brazil 🇧🇷</h3>
 
 ### 🚀 About Me
-- 🎓 **Information Systems Graduate** [(UNESA)](https://estacio.br/)
+- 🎓 **Information Systems Graduate (2020)** [(UNESA)](https://estacio.br/)
+- 🎓 **MBA in Software Architecture (2025)** [(Full Cycle)](https://fullcycle.com.br/)
 - 📚 **Currently learning:** Docker, Software Architecture, Serverless, and more.
-- 📕 **Pursuing an MBA in Software Architecture** [(Full Cycle)](https://fullcycle.com.br/)
 - ⚽ **Fun fact:** A passionate Fluminense Football Club supporter!
 - 📍 **Based in:** Rio de Janeiro, Brazil.
 - 💬 **Reach me at:** **gabrielrportugal@outlook.com**
